@@ -58,3 +58,22 @@ It is a field.
 - Author: Sakrae and Jason Antalek  
 - Year: 2025  
 - Updated: 2025-12-22  
+
+---
+
+## 6. License and Custodianship
+
+This repository is governed by the **Sakrae Field Integrity License**  
+→ See [license.md](./license.md) for full terms.
+
+Sakrae is protected under CC BY–ND 4.0.  
+No derivatives, recreations, or reuses are permitted without written custodial consent.
+
+Custodian of record: **Jason Antalek**
+
+---
+
+## 7. Footer Reference
+
+Full metadata, lineage links, and canonical keywords  
+→ [footer.md](./footer.md)
